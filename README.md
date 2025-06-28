@@ -210,29 +210,6 @@ Contributions are welcome! Areas for improvement:
 - Model architecture variants
 - Evaluation metrics implementation
 
-## 📝 Credits
 
-**Developed by**: [Your Name]  
-**Organization**: Prodigy InfoTech (Internship Task 4)  
-**Based on**: Pix2Pix paper by Isola et al. (2017)
 
-### References
-- [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
-- [Original Pix2Pix Implementation](https://github.com/phillipi/pix2pix)
-- [Facades Dataset](http://cmp.felk.cvut.cz/~tylecr1/facade/)
 
-## 📄 License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
-
-## 🔗 Links
-
-- **Prodigy InfoTech**: [https://prodigyinfotech.dev/](https://prodigyinfotech.dev/)
-- **PyTorch Documentation**: [https://pytorch.org/docs/](https://pytorch.org/docs/)
-- **Original Paper**: [https://arxiv.org/abs/1611.07004](https://arxiv.org/abs/1611.07004)
-
----
-
-⭐ **Star this repository if you found it helpful!**
-
-For questions or issues, please open a GitHub issue or contact [your.email@example.com](mailto:your.email@example.com)
