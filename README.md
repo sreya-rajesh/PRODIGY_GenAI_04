@@ -1,3 +1,4 @@
+# PRODIGY_GenAI_04
 # Pix2Pix - Image-to-Image Translation using GANs
 
 A PyTorch implementation of Pix2Pix for image-to-image translation using conditional Generative Adversarial Networks (cGANs). This project transforms architectural facade sketches into realistic building images using the U-Net generator architecture and PatchGAN discriminator.
